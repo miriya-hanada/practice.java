@@ -1,4 +1,4 @@
-# calculation File  
+# #calculation File  
 ## Clock.java  
 #### 時・分・秒を引数で受け取ると、1日の中での経過秒数を計算して出力するプログラム作成  
 ex) 18時32分47秒は 66767 秒  
@@ -22,7 +22,7 @@ ex) a = 8, b = 5, c = 5 なら二等辺三角形
 ex) a = 5, b = 5, c = 5 なら正三角形  
   
   
-# fizzbuzz File  
+# #fizzbuzz File  
 ## SevenNumber.java  
 #### 1から100までの数値を順番に出力するプログラムを作成  
 以下のいずれかの条件を満たす場合は、数値ではなく clap! という文字列を出力する  
